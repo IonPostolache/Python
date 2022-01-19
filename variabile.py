@@ -18,7 +18,9 @@ model = 'IV'
 cm_cubi = 2600
 pret = 500.70
 inmatriculata = True
-
+nume="Moldovan"
+prenume="Ghita"
+telefon="0717155115"
 #suprascriere
 pret=400.99
 
@@ -27,7 +29,7 @@ print(f'Vand {marca} {model}')
 print(f'Nu bate, nu troncane. Pentru pretentiosi.')
 print(f'cc: {cm_cubi}')
 print(f'Pret final: {pret}. Negociabil!')
-
+print(f'Pentru detalii sunati la numarul {telefon}, Nume: {prenume} {nume}.')
 '''
 exercitiu: 
 adaugati mai sus 3 variabile: nume, prenume, telefon
