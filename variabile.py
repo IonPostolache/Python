@@ -19,6 +19,9 @@ cm_cubi = 2600
 pret = 500.70
 inmatriculata = True
 
+#suprascriere
+pret=400.99
+
 # accesam valorile si le afisam in consola
 print(f'Vand {marca} {model}')
 print(f'Nu bate, nu troncane. Pentru pretentiosi.')
