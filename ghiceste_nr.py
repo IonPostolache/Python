@@ -3,6 +3,8 @@ import random
 
 # generam un numar aleatoriu intre 0 si 30
 numar_secret = random.randint(0, 30)
+#afisare nr generat, pentru test
+#print(f"Numarul generat care trebuie ghicit este {numar_secret}.")
 # setam numarul ghicit cu o valoare gresita
 numar_ghicit = -1
 
